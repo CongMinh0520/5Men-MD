@@ -1,3 +1,33 @@
 ADMIN:
 account: ad1@gmail.com
 pass : 123456
+HỆ THỐNG WEBSITE BÁN ĐIỆN THOẠI KẾT HỢP CHATBOX
+-  Xây dựng một trang web cho phép người dùng lựa chọn sản phẩm điện thoại phù hợp với nhu cầu của mình.
+
+Các chức năng chính:
+1. Quản lý hệ thống:
+   - Quản lý trang chủ
+   - Quản lý danh mục
+   - Quản lý sản phẩm
+   - Quản lý thành viên
+   - Quản lý kho
+   - Quản lý bài báo
+   - Quản lý đổi trả
+   - Quản lý chính sách và chi nhánh
+   - Quản lý liên hệ
+   - Thống kê
+2. Chức năng hỗ trợ:
+   - Tìm kiếm
+   - Chatbox
+3. Chức năng cho người dùng:
+   - Đăng nhập, đăng ký, đăng xuất
+   - Xem sản phẩm
+   - Quản lý đơn hàng
+   - Lịch sử đặt hàng
+   - Hủy đơn hàng
+   - Cập nhật thông tin tài khoản
+   - Lọc sản phẩm
+   - Thêm vào giỏ hàng
+   - Quản lý giỏ hàng
+   - Đặt hàng
+   - Thanh toán
